@@ -1,0 +1,34 @@
+img {
+    width: 150px;
+    cursor: pointer;
+  }
+  .selected {
+    border: 2px solid red;
+  }
+  .section {
+    margin: 20px 0;
+  }
+
+  h1 {
+    font-family: 'Trebuchet MS';
+    color: rgba(240, 104, 176, 0.81);
+  }
+
+  h2 {
+    font-family: monospace;
+    color: rgba(71, 61, 139, 0.768);
+  }
+
+  button {
+    color: aliceblue;
+    background-color: cornflowerblue;
+    border-radius: 15%;
+    font-family: 'Trebuchet MS';
+  }
+
+  .section {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
